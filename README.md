@@ -2,7 +2,7 @@
 
 # 🌡️ Urban Heat Island Mapping — Atlanta, GA
 
-![UHI Map](outputs/urban_heat_island.png)
+![UHI Map](Outputs/urban_heat_island.png)
 
 ## Overview
 This project maps **Land Surface Temperature (LST)** across Atlanta 
